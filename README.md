@@ -1,1 +1,1 @@
-# Solving semantic segmentation task with U-Net
+# Solving semantic segmentation task with Pytorch and U-Net
